@@ -31,7 +31,49 @@ Raportul include totaluri, distribuții pe categorii, top destinații și procen
 1. Instalează dependențele:
    ```bash
  pip install pandas
- python citire_fisier.py  ```
+  ```bash
+ python citire_fisier.py
+
+# Structura proiectului
+
+analiza_fonduri/
+│
+├── citire_fisier.py          # Scriptul principal
+├── distribuire_fonduri.xlsx  # Dataset-ul analizat
+└── README.md                 # Documentația proiectului
+
+====== Mini-raport distribuire fonduri ======
+
+1. Total fonduri distribuite: 4068000
+
+2. Total fiecare categorie:
+Biserici     ...
+Sănătate     ...
+Educație     ...
+Social       ...
+Diaspora     ...
+
+3. Top 3 destinații după sumă:
+   (tabel cu cele mai mari 3 sume)
+
+4. Procentaj pe categorie:
+Biserici     xx%
+Sănătate     xx%
+...
+
+Acest proiect m-a ajutat să înțeleg și să aplic:
+
+manipularea datelor cu Pandas
+
+agregări, sortări și filtrări
+
+generarea de rapoarte automate
+
+lucrul cu fișiere Excel în Python
+
+structura unui proiect de analiză a datelor
+
+ 
 
 
 
