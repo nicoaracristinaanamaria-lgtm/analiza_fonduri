@@ -37,12 +37,13 @@ python citire_fisier.py
   ```
 
 # Structura proiectului
-
-analiza_fonduri/
+ ```
+Analiza_fonduri/
 │
 ├── citire_fisier.py          # Scriptul principal
 ├── distribuire_fonduri.xlsx  # Dataset-ul analizat
 └── README.md                 # Documentația proiectului
+ ```
 
 ====== Mini-raport distribuire fonduri ======
 
