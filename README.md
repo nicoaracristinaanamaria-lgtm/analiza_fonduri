@@ -44,7 +44,7 @@ Analiza_fonduri/
 ├── distribuire_fonduri.xlsx  # Dataset-ul analizat
 └── README.md                 # Documentația proiectului
  ```
-
+ ```
 ====== Mini-raport distribuire fonduri ======
 
 1. Total fonduri distribuite: 4068000
@@ -63,6 +63,7 @@ Diaspora     ...
 Biserici     xx%
 Sănătate     xx%
 ...
+ ```
 
 Acest proiect m-a ajutat să înțeleg și să aplic:
 
