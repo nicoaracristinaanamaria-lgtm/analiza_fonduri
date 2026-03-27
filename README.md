@@ -62,9 +62,9 @@ Diaspora     ...
 4. Procentaj pe categorie:
 Biserici     xx%
 Sănătate     xx%
-...
- ```
 
+ ```
+ ```
 Acest proiect m-a ajutat să înțeleg și să aplic:
 
 manipularea datelor cu Pandas
@@ -76,6 +76,7 @@ generarea de rapoarte automate
 lucrul cu fișiere Excel în Python
 
 structura unui proiect de analiză a datelor
+ ```
 
  
 
