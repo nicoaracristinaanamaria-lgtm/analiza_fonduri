@@ -34,6 +34,7 @@ Raportul include totaluri, distribuții pe categorii, top destinații și procen
   ```bash
  python citire_fisier.py
 
+
 # Structura proiectului
 
 analiza_fonduri/
