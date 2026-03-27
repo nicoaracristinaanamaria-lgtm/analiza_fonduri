@@ -65,15 +65,15 @@ Sănătate     xx%
 
  ```
 ---
-Acest proiect m-a ajutat să înțeleg și să aplic:
+## Acest proiect m-a ajutat să înțeleg și să aplic:
 
-manipularea datelor cu Pandas
+- manipularea datelor cu Pandas
 
-agregări, sortări și filtrări
+- agregări, sortări și filtrări
 
-generarea de rapoarte automate
+- generarea de rapoarte automate
 
-lucrul cu fișiere Excel în Python
+- lucrul cu fișiere Excel în Python
 
 ---
 
