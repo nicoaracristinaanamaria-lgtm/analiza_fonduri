@@ -29,10 +29,9 @@ Raportul include totaluri, distribuții pe categorii, top destinații și procen
 ##  Cum rulezi proiectul
 
 1. Instalează dependențele:
-   ```bash
- pip install pandas
-  ```bash
- python citire_fisier.py
+   ```bash pip install pandas
+ 
+  ```bash python citire_fisier.py
   ```
 
 # Structura proiectului
