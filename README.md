@@ -31,6 +31,7 @@ Raportul include totaluri, distribuții pe categorii, top destinații și procen
 1. Instalează dependențele:
    ```bash
  pip install pandas
+ ```
   ```bash
  python citire_fisier.py
   ```
